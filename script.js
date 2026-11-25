@@ -216,4 +216,4 @@ console.log("Arzoo Shamim");
     "V", "W", "X", "Y", "Z"
 ];
             
-            console.log(alphabets.sort());6
+            console.log(alphabets.sort());
